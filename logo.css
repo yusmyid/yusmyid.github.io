@@ -1,0 +1,17 @@
+.div1 {
+    padding-left: 24px;
+    padding-right: 24px;
+    background-image: url(assets/img/bg.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+    width: 100%;
+}
+
+h1,p {
+    color: rgb(240, 14, 14);
+}
+
+.txt {
+    color: white;
+}
