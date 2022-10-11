@@ -27,10 +27,6 @@
     bottom: 0;
     z-index: 999999;
     background-color: #fff;
-    -webkit-transition: .6s;
-    -o-transition: .6s;
-    transition: .6s;
-    margin: 0 auto;
   }
  
     .loading {
